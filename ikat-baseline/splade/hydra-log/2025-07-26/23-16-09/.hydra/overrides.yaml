@@ -1,0 +1,5 @@
+- init_dict.model_type_or_dir=naver/splade-cocondenser-ensembledistil
+- config.pretrained_no_yamlconfig=true
+- config.index_dir=/tmp2/clueweb22/indexes/splade_index
+- config.out_dir=EXP/adarewriter10_REchiqnpr_cand10_splade
+- data.Q_COLLECTION_PATH=[/tmp2/intern/guanwei/AdaRewriter/results/2025/queries_adarewriter10_REchiqnpr_cand10_2025.tsv]

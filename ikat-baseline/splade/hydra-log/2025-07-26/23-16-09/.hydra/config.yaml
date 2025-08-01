@@ -1,0 +1,85 @@
+config:
+  lr: 2.0e-05
+  seed: 123
+  gradient_accumulation_steps: 1
+  weight_decay: 0.01
+  pretrained_no_yamlconfig: true
+  nb_iterations: 150000
+  train_batch_size: 10
+  eval_batch_size: 600
+  index_retrieve_batch_size: 500
+  record_frequency: 10000
+  train_monitoring_freq: 500
+  warmup_steps: 6000
+  max_length: 256
+  fp16: true
+  matching_type: splade
+  tokenizer_type: Luyu/co-condenser-marco
+  top_k: 1000
+  threshold: 0
+  eval_metric:
+  - - mrr_10
+    - mrr_1000
+    - recall
+  - - ndcg_cut
+  - - mrr_10
+    - mrr_1000
+    - recall
+  - - ndcg_cut
+  retrieval_name:
+  - IKAT2023
+  - IKAT2023
+  - IKAT2024
+  - IKAT2024
+  regularizer:
+    FLOPS:
+      lambda_d: 0.0001
+      targeted_rep: rep
+      reg: FLOPS
+    L1:
+      lambda_q: 0.0001
+      targeted_rep: rep
+      reg: L1
+  checkpoint_dir: ??
+  index_dir: /tmp2/clueweb22/indexes/splade_index
+  out_dir: EXP/adarewriter10_REchiqnpr_cand10_splade
+  hf_training: false
+data:
+  type: json
+  TRAIN:
+    DATASET_PATH: ??
+    D_COLLECTION_PATH: ??
+    Q_COLLECTION_PATH: ??
+    QREL_PATH: ??
+  COLLECTION_PATH: DATA/collection/index_splade
+  Q_COLLECTION_PATH:
+  - /tmp2/intern/guanwei/AdaRewriter/results/2025/queries_adarewriter10_REchiqnpr_cand10_2025.tsv
+  EVAL_QREL_PATH:
+  - DATA/2023_test_qrels_binary.json
+  - DATA/2023_test_qrels.json
+  - DATA/2024_test_qrels_binary.json
+  - DATA/2024_test_qrels.json
+init_dict:
+  model_type_or_dir: naver/splade-cocondenser-ensembledistil
+  model_type_or_dir_q: naver/splade-cocondenser-ensembledistil
+  freeze_d_model: 1
+  agg: max
+  fp16: true
+hf:
+  training:
+    resume_from_checkpoint: false
+    ddp_find_unused_parameters: false
+    fp16: true
+    logging_steps: 5000
+    save_strategy: epoch
+    dataloader_drop_last: true
+    num_train_epochs: 15
+    warmup_ratio: 0.01
+    mse_margin: false
+    weight_decay: 0
+  model:
+    dense: false
+    shared_weights: false
+  data:
+    distillation: false
+    n_negatives: 16

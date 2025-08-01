@@ -1,0 +1,9 @@
+# @package data
+
+type: json
+TRAIN:
+  DATASET_PATH: ??
+  D_COLLECTION_PATH: ??
+  Q_COLLECTION_PATH: ??
+  QREL_PATH: ??
+

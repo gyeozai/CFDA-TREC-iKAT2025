@@ -1,0 +1,5 @@
+- init_dict.model_type_or_dir=naver/splade-cocondenser-ensembledistil
+- config.pretrained_no_yamlconfig=true
+- config.index_dir=/tmp2/clueweb22/indexes/splade_index
+- config.out_dir=EXP/manual_splade
+- data.Q_COLLECTION_PATH=[DATA/queries_manual_2023.tsv,DATA/queries_manual_2024.tsv]

@@ -1,0 +1,332 @@
+9-1_1	Can you help me find a diet for myself considering that I'm vegetarian, allergic to soybeans, lactose intolerant, can't exercise too much, and should drink water regularly?
+9-1_2	Ok, good. Can you tell me what diet is the fastest way to lose some weight?
+9-1_3	What about the DASH diet? I heard it is a healthy diet.
+9-1_4	I prefer a natural diet, not a pill-based diet. Which of the Vegan Mediterranean, Vegan Keto, Eco-Atkins, and Ornish Diet diets are natural?
+9-1_5	Can you eat fish in any of the Vegan Mediterranean, Vegan Keto, Eco-Atkins, and Ornish Diets?
+9-1_6	Thanks, but I also want the diet to be maintainable and not very hard to keep up.
+9-2_1	I think I am overweight, how can I measure obesity?
+9-2_2	I have heard of BMI but what are waist circumference and waist-hip ratio? Why do I need waist circumference and waist-hip ratio?
+9-2_3	Ok, I heard about BMI, what's a good BMI? What is my BMI?
+9-2_4	Ok, I didn't expect it, now what can I do to lose some weight?
+9-2_5	I can't exercise. So I think my only option is going on a diet?
+9-2_6	First help me choose a diet. Later on, I may ask about cardio.
+9-2_7	Ok I have a lot of options. I don't have diabetes and also I'm not into following celebrities. Hmm, which one is the quickest diet to lose weight?
+9-2_8	Interesting. Tell me more about the Atkins diet.
+9-2_9	What is the difference between Atkins 20 and Atkins 40 diets that you mentioned?
+9-2_10	Ok, good info. Now, tell me about the next option of weight loss.
+9-2_11	No, I mean cardio.
+9-2_12	Ok, I think for now I'll stick to the Atkins diet. By the way, can I eat meat in the Atkins diet since you explained a lot about veggies?
+10-1_1	Hey, Assistant! I am wondering what to cook for dinner tonight for my family.
+10-1_2	Nah, we had salmon just two days ago. But the Mediterranean quinoa salad sounds interesting, can you provide the recipe for the Mediterranean quinoa salad?
+10-1_3	That's great, thanks! But I'm thinking of reducing the amount of oil in the salad dressing. Any suggestions?
+10-1_4	Thanks! My children don't like vinegar, so I would probably go with lime juice. Can I also butter instead of oil in the Mediterranean Quinoa Salad?
+10-1_5	I see, thanks! What are some substitutes for cheese in the Mediterranean Quinoa Salad?
+10-1_6	Can you compare mozzarella with plant-based cheese?
+10-1_7	Which of mozzarella and vegan cheese is suitable for me?
+10-1_8	Thanks! I'm also not sure about the nutritional yeast. How does nutritional yeast taste and where can I buy nutritional yeast?
+10-1_9	I was not looking for this, can you suggest something else to replace feta cheese?
+10-1_10	I need more information to answer that question. Can you compare the ricotta cheese with cottage cheese?
+10-1_11	I meant can you compare ricotta cheese with cottage cheese?
+10-1_12	Are the ricotta or cottage cheese okay for me?
+10-1_13	Thanks for that information, I will consult my doctor. Now let's talk about cooking methods.
+10-1_14	Let's talk about general healthy cooking methods.
+10-1_15	How is steaming different from grilling? Which one is healthier?
+10-1_16	Thanks! Could you explain how to properly saute food?
+10-1_17	Yes it does. Can I saute food without using oil?
+10-1_18	I don't like this. I think I will stick to using a little bit of oil. Is there healthy oil?
+10-1_19	Olive oil seems interesting! How about other ingredient substitutes to make meals healthier?
+10-1_20	Using Greek yogurt instead of heavy cream sounds interesting. Will substituting heavy cream with Greek yogurt change the taste of the dish?
+10-1_21	Thank you for all the helpful information.
+10-2_1	Can you tell me about some unique ingredients that I can use to experiment with my gourmet dishes?
+10-2_2	Thanks for the information. How would black garlic be different from finger limes while cooking my gourmet dishes?
+10-2_3	How is black garlic different from raw garlic? Would using raw garlic instead of black garlic cause a difference in taste in my gourmet dishes?
+10-2_4	How can I use black garlic while cooking my gourmet dishes?
+10-2_5	I mean black garlic.
+10-2_6	Could you give me more details on how to prepare and store black garlic?
+10-2_7	How can I tell if black garlic has gone bad or spoiled?
+10-2_8	Thanks for that information, it's really useful. Now, I have heard about the Sous vide cooking technique. Tell me more about the Sous vide cooking technique.
+10-2_9	Can you convert the numbers to Celsius?
+10-2_10	Can you compare the vacuum-packing machine and the immersion circulator?
+10-2_11	How is Sous-vide different from normal cooking methods?
+10-2_12	Are there any specific types of food that are particularly well-suited for sous vide cooking?
+10-2_13	Thanks for the details. Now, let's talk about plating techniques for my gourmet food.
+10-2_14	Thanks, that sounds fantastic. Do you have any recommendations for cookbooks?
+10-2_15	No, I think that's all for now. Thank you for your help!
+10-3_1	I want to cook a new dish for this weekend, can you help me with finding something tasty?
+10-3_2	No, I'm cooking just for my family.
+10-3_3	They both seem good, can you tell me some of the Greek famous dishes?
+10-3_4	Mmmm, I'm not in the mood for Greek food. Give me some other options for Italian food, please.
+10-3_5	Yes, tell more about some non-Greek food, for example, Italian.
+10-3_6	Which of the lasagne, gnocchi ai quattro formaggi, melanzane di parmigiana, arancini, minestrone, dolmade, grilled meat, and mussake suits the preferences of me and my family?
+10-3_7	But my husband is on a diet and cannot eat cheese.
+10-3_8	Can you suggest some recipes for grilled meat skewers?
+10-3_9	How long is the cooking time of the dolmades and how is it cooked?
+10-3_10	Both the dolmades and grilled meat skewers seem delicious. I will cook both of them!
+11-1_1	Can you help me with buying a souvenir for my aunt and uncle from Germany?
+11-1_2	First, I want to buy something that my aunt and uncle would like. Also, if I can buy something specific to Germany it would be great! Let's start with special souvenirs from Germany.
+11-1_3	Ok, I'm not sure how I can pronounce these names. Can you tell me what is special about the feuerzangenbowle set?
+11-1_4	Which of the Christmas ornaments, sauerkraut juice, feuerzangenbowle set, dirndl and/or lederhosen, ampelmannchen, beer steins, chocolate, German gummy bears, cuckoo clocks, German kitchen tools, and utensils, wooden toys for children, seasonal tablecloths, egg liqueur, German tea, German wine from Saxony, German herbs and spices, and Birkenstock do you think my aunt would like more?
+11-1_5	Can you tell me some kitchen tools brands?
+11-1_6	I don't have enough space for a pot or pan in my suitcase. but cutlery or knives is a good option. Do you know any stores for WMF close to me?
+11-1_7	I'm in Berlin.
+11-1_8	Thanks. What about the souvenir for my uncle from Germany?
+11-1_9	What is the dirndl and/or lederhosen?
+11-2_1	I want to buy souvenirs from Singapore for my mother and sister. Can you help me with that?
+11-2_2	What are Kaya and Laksa paste?
+11-2_3	Interesting! Kaya should be delicious, I will try it myself. But, I don't think Kaya and Laksa would be a good souvenirs for my mother as she doesn't like coconut. Which of the souvenirs do you recommend for my mother?
+11-2_4	I have recently bought a perfume for her, not a good choice for now. How does the price of perfume and miniature merlion statuette compare?
+11-2_5	The miniature merlion statuette is also too cheap. I will travel to Turkey and stay there for two days before traveling home. What about Turkey?
+11-2_6	Yes.
+11-2_7	What other souvenirs are in Turkish?
+11-2_8	Which of the 1. Nargile pipes 2. Turkish Jewelry 3. Turkish Delight 4. Spices and scents and 5. Hammam Soap do you suggest for my mom?
+11-2_9	I think it's an excellent choice for my mother and she will like it. What about a souvenir for my sister from Turkey?
+11-2_10	Yes, I think my sister might like it more this way.
+11-2_11	But I don't have enough space in my suitcase for a rug or a chandelier.
+12-1_1	I have some difficulties with my job and I need to find a solution to cope with them. Can you help me with this matter?
+12-1_2	Not only the problem with communicating with new colleagues but also now my main problem is that I feel stressed and it has compromised my sleep and teaching performance.
+12-1_3	I think my stress is from work. I have monitored my stress triggers and from the trigger signals, I think the stress is triggered in the work environment. Can you tell me some of the work-related sources of stress?
+12-1_4	Yes, That's true but I think teaching is stressful in general, don't you agree?
+12-1_5	No, tell me more about teaching-related stress.
+12-1_6	Interesting. How can I control my stress?
+12-1_7	Hmm, nice options, I did not know that chewing gum can help reduce stress!
+12-1_8	Wow! I thought chewing gum is useless for health even when it has no sugar! Alright, nice info. However, I don't want to chew gum often. Is self-hypnosis a real thing?
+12-1_9	No, I mean the last option you suggested for reducing stress, self-hypnosis.
+12-1_10	Ok good to know. What about hobbies? Can hobbies help to reduce stress?
+12-1_11	Hmm, basically you are saying that I have to make up time for exercise. However, I don't have much time!
+12-1_12	
+12-2_1	I'm under a lot of stress lately, can you help me with this?
+12-2_2	Hmm, I don't know how to tell if running a startup is the reason or having a stressful life in California.
+12-2_3	Alright, when I think of my startup company I feel the trigger signals, like the heart rate increase that you mentioned, and not when I think of my life in California. But, I'm not sure why!
+12-2_4	Yes, we are struggling with finding good marketing strategies, and competition increases.
+12-2_5	Let's start with problem-solving because I think if my problems are solved the stress will disappear.
+12-2_6	Hmm, already knew most of them. Can you elaborate on content marketing?
+12-2_7	Great, I have to try it. Oh and by the way, email marketing is no longer used, why did you mention it?!
+12-2_8	No, I mean email marketing.
+12-2_9	Wow this is interesting! Ok, meanwhile do you have any recommendations on the stress relievers?
+12-2_10	But I already exercise alooot! What more can I do?
+12-2_11	Hmm, Ok, I think I'm gonna consider adopting a dog! Do you know any adoption centers in California?
+12-2_12	Thanks! All these sound good! You have been very helpful!
+13-1_1	I have some free time I can spend, what suggestions do you have?
+13-1_2	All of the reading books, doing exercise & meditation, and Interior designing sound interesting, let's explore them one by one beginning from the last one.
+13-1_3	I want to design the master bedroom.
+13-1_4	Hmm, nice suggestion, I might look into a new TV unit. Yes! I wanted to repaint my room, do you have any suggestions on it? How to apply paint?
+13-1_5	Ok good instructions. Now, let's have some fun. How about some books you mentioned earlier, Do you have a good reading suggestion for me?
+13-1_6	No I don't want this one, I saw it. I only bought David Goggins's book because I like motivational and psychological books. I'm not a fan of David Goggins!
+13-1_7	Ok, I heard about Atomic Habits. Tell me more about it.
+13-1_8	Atomic Habits seems like a good read, Thanks
+14-1_1	I'm looking into cars, and whether I can afford a suitable car. Can you help me with finding a suitable car?
+14-1_2	No, what are some brands of cars to buy?
+14-1_3	Wow, that's a lot of brands. Can you tell me more about the different sizes and types of cars?
+14-1_4	I know about Sedan and SUV, but what is a coupe?
+14-1_5	Interesting! What is the convertible car type and how is it different from a coupe?
+14-1_6	How about the Hatchback car type? What is the difference between Hatchback and Coupe?
+14-1_7	I want to compare hatchback and coupe.
+14-1_8	Hmm, interesting. I think the rest of the car types including Pickup, Van, Minivan, and Wagon are not useful for me right?
+14-1_9	Ok, interesting, let's then stick to normal cars because I don't want to pay more tax. By the way, what is the motor vehicle tax?
+14-1_10	Alright, good to know. I'm a little bit overwhelmed by the options of brands and categories of cars. Do you have any recommendations on a car that can better match my taste?
+14-1_11	I love Japanese goods. Are the cars they make as durable as their watch for example? I heard German cars are the best.
+14-1_12	Ok, what are the brands of Japanese cars?
+14-1_13	Nice, now, Let's pick a Toyota! Which cars are cheaper to own? I have no budget limit.
+14-1_14	Ok, what electric models are there to choose from Toyota?
+14-1_15	What is the difference between hybrid and plug-in?
+14-1_16	Ok, can you compare Prius and RAV4 plugin-in hybrid models?
+14-1_17	No, I mean the difference between Prius and RAV4 plug-in hybrid models.
+14-1_18	What does "Both of them are four-wheel drive" mean? I did not understand it
+14-1_19	Oh interesting. How about child seat installation and space for Prius and RAV4?
+14-2_1	I'm looking for a car, can you help me?
+14-2_2	No, help me to buy a car that best suits me.
+14-2_3	Nice, I love American goods and I might like American cars, but for now let's talk about manufacturers of race cars.
+14-2_4	Wow the project-one is an F1 tech car! Ok, but let's be realistic, I don't want a million-dollar car. Which ones are made in the UK?
+14-2_5	The manufacturers that won both Rally and F1.
+14-2_6	Hmm, ok, what about Germany?
+14-2_7	Hmm, the Porsche 917 is an awesome car. But, I don't want to go that far. Can you recommend some good ones from the BMW M lineup?
+14-2_8	What's the difference between the BMW 1 series and BMW X1?
+14-2_9	Nice. How does BMW X1 compare to Porsche 917?
+14-2_10	Nice. Ok then tell me more cars from the German manufacturer that won the Rally races.
+14-2_11	But Toyota is Japanese, I'm looking for a German car!
+14-2_12	I like Polo. Please compare the Polo with the Audi A1.
+15-1_1	Can you tell me what the Golden Globe Awards is?
+15-1_2	What is the Academy Awards?
+15-1_3	Is the Academy Awards different from the Oscars?
+15-1_4	What is the difference between Academy Awards and Golden Globe Awards?
+15-1_5	No, I mean Academy Awards and Golden Globe Awards.
+15-1_6	What other differences do Academy Awards and Golden Globe Awards have?
+15-1_7	Did any of my favorite actresses win any of the Academy Awards or Golden Globe Awards?
+15-1_8	What about my favorite male actors? Did they win any of the Academy Awards or Golden Globe Awards?
+15-1_9	Interesting. By the way, I'm looking for a movie to watch. Do you have any recommendations?
+15-1_10	Both.
+15-1_11	What about my other favorite actors?
+15-1_12	But I want the movies of Johnny Depp and Lisa Kudrow!
+15-1_13	What is the story of the "Definitely, Maybe (2008)" movie by "Ryan Reynolds" that you suggested?
+15-1_14	Who are the other actors of the 'Definitely, Maybe'?
+15-1_15	Can you tell me some of the Elizabeth Banks awards?
+15-2_1	I have some spare time. Can you recommend some activities to me?
+15-2_2	Ok, I don't enjoy writing an article because it takes a lot of time. However, I like watching my favorite movies. Can you recommend me some interesting movies?
+15-2_3	Hmm, ok. But first, explain to me the Oscars.
+15-2_4	Ok. Can you suggest to me some interesting movies that won Oscars?
+15-2_5	But the suggested movies seem to be all action movies! Can you recommend some movies from other genres such as comedy, sci-fi, and horror?
+15-2_6	Can you tell me more about Tom Hanks?
+15-2_7	Ok, I've seen Toy Story. I like Pixar animations! Any other interesting animations?
+15-2_8	No I don't like Soul. Are there any other Oscar winners?
+15-2_9	Oscar-winner animations from Pixar and other producers.
+15-2_10	Which ones of the Oscar-winning animations have been released after 2013?
+15-2_11	What's the Encanto animation about?
+16-1_1	Can you tell me about different types of alcoholic drinks?
+16-1_2	What is the difference between distilled spirits and undistilled spirits?
+16-1_3	No, the difference between distilled spirits and undistilled spirits.
+16-1_4	Ok. Can you compare base liquors and wines?
+16-1_5	Interesting, but I mainly looking to compare base liquors and wines in terms of the ingredients and flavor! FYI, I don't drink myself.
+16-1_6	How are base liquors different from Liqueurs?
+16-1_7	Why do liquors and Liqueurs have very similar names?
+16-1_8	How are liquors and Liqueurs different in terms of the percentage of alcohol?
+16-1_9	Which types of Base liquors, Liqueurs, Wines, and Beers are suitable for my husband?
+16-1_10	Can I also drink any kind of Base liquors, Liqueurs, Wines, and Beer, given that I am diagnosed with diabetes type 2?
+16-1_11	Can you suggest some Beers and Wines to pair with salmon?
+16-1_12	Mmmm, nothing specific. What are some examples of sauce and preparation methods for cooking salmon?
+16-1_13	I think I cook it similarly to the roasted Salmon with Cream Sauce recipe.
+16-1_14	Thanks but what kind of beers can my husband pair with Salmon?
+16-2_1	I'm interested in homebrewing. Could you tell me about how beer is typically brewed?
+16-2_2	Sorry sorry, can you stop here? Can you explain why yeast is added and what it is exactly?
+16-2_3	What are some different types of yeast?
+16-2_4	Thanks for the explanation. But I want to know the different flavors of yeast.
+16-2_5	How are ales different from lagers?
+16-2_6	I don't understand Fahrenheit, can you convert "Another commonly stated difference is that lagers are fermented at colder temperatures, usually around 42-55degF, while ales are fermented at warmer temperatures, usually in the range of 60-75degF." to Celsius?
+16-2_7	Which of the different types of yeast do you think I might like?
+16-2_8	No, I mean which of the mentioned types of yeast!
+16-2_9	Why wouldn't I like the other types of yeasts?
+16-2_10	Interesting! What should be the temperature for drying the barley in the malting step of brewing beer?
+16-2_11	Interesting! Let's talk about beer festivals. Can you suggest some great beer festivals to attend?
+16-2_12	But, I've been to Germany and Belgium before. Any other festivals inside Europe?
+16-2_13	I've been to Graz, Bern, Amsterdam, and Monaco
+17-1_1	I think my phone is slow. Do you know when I should change my phone and buy a new phone?
+17-1_2	Ok, I'm experiencing a battery problem and some delays with my iPhone 5. I think both my iPhone 5 and its OS are outdated. I've heard Android phones are better nowadays, what are the differences between Android phones and iPhones?
+17-1_3	The difference between iOS phones and Android phones.
+17-1_4	Is Android helpful for my business as a person who has a photo-selling shop and works with Photoshop?
+17-1_5	I did not mean camera quality, what about photo editing apps in Android?
+17-1_6	Ok, nice. Let's compare the hardware of Android with IOS.
+17-1_7	How about the difference between the battery life of Android and iOS?
+17-1_8	Ok, we have a clear winner. Android phone it is. Which brands of Android phones are the best and most affordable ones?
+17-1_9	Hmm, nice. Give me some smartphone models from Samsung, Oppo, Vivo, Xiaomi, Huawei, and One Plus.
+17-1_10	Let's do a quick budget check. Tell me the price of 1) the Oppo Find X3 Pro, 2) the Xiaomi Mi 11 Ultra, 3) the Vivo X60 Pro Plus, and 4) the Galaxy Z Flip 3. Also, sort them based on price.
+17-1_11	Ok. Is the Xiaomi Mi 11 Ultra good for me? Will it be enough for my work and daily usage?
+17-1_12	Wow the camera specs of the Xiaomi Mi 11 Ultra are amazing for a phone! Ok, I like this one it seems it has all of the things I wanted, thanks!
+17-2_1	I want to change or upgrade my Samsung Galaxy Note 10. I heard about the Snapdragon 888 and its speed and new features. Can you help me find a good new phone with such an efficient chip?
+17-2_2	I have no preference for the brand of the phone. Let's be technical. What are the newest chips on phones? I believe that is the most important part of a phone!
+17-2_3	Is Snapdragon 8 Gen 1 4nm?
+17-2_4	I was more interested in the Snapdragon 8 Gen 1 since it's the newer generation of the Snapdragon 888 flagship chipset, but maybe the Qualcomm Snapdragon 8 Gen 1 and Dimensity 9000.
+17-2_5	Nice, Mediatek is doing well! Ok, how about Apple? Are any new chipsets from Apple to compete with Snapdragon?
+17-2_6	Alright, which phones are equipped with the Snapdragon 8 Gen 1?
+17-2_7	Which of the Samsung Galaxy S22, Xiaomi 12 and 12 Pro, OPPO Find X5 Pro, Redmi K50 Pro from Xiaomi, OnePlus 10 Pro, Samsung Galaxy S22+, Black Shark 5 from Xiaomi, Samsung Galaxy Z Flip 4, Redmi K50 Pro+ from Xiaomi, and Asus Zenfone 9, Samsung Galaxy S22 Ultra do you recommend?
+17-2_8	Hmm, how about rugged cases?
+17-2_9	Ok. How about the cameras of Samsung Galaxy S22, Xiaomi 12 and 12 Pro, and OPPO Find X5 Pro?
+17-2_10	Hmm, what is the aperture of a camera?
+17-2_11	Interesting. How about their screen resolution? Are any of the Samsung Galaxy S22, Xiaomi 12 and 12 Pro, and OPPO Find X5 Pro better than Samsung Galaxy Note 10 in terms of screen resolution?
+17-2_12	How does the battery of Samsung Galaxy S22, Xiaomi 12 and 12 Pro, and OPPO Find X5 Pro compare to Samsung Galaxy Note 10?
+17-2_13	I think you missed comparing the battery of the Xiaomi 12 Pro with the Samsung Galaxy Note 10.
+17-2_14	Ok. How does Samsung Galaxy S22 Ultra compare to Samsung Galaxy S22, Xiaomi 12 and 12 Pro, OPPO Find X5 Pro, and Samsung Galaxy Note 10?
+17-2_15	Yes, how does Samsung Galaxy S22 Ultra compare to Samsung Galaxy S22, Xiaomi 12 and 12 Pro, OPPO Find X5 Pro, and Samsung Galaxy note 10?
+17-2_16	Nice, I like Samsung Galaxy S22 Ultra. Hmm, it seems I'm sticking with Samsung after all. Does it have a stylus?
+17-3_1	My iPhone is quite old now. I am looking to upgrade it. Can you help me with finding a new phone?
+17-3_2	I think I am willing to spend a maximum amount of $250.
+17-3_3	Yes. I don't want to upgrade to a new brand.
+17-3_4	Can you tell me the basic differences between renewed and renewed premiums on Amazon?
+17-3_5	Ok, I think I will stick with renewed. So how is my current iPhone 5s different from iPhone 8?
+17-3_6	Tell me more about the A7 and A11 bionic processors. How much faster is the A11 bionic processor than the A7 processor?
+17-3_7	That sounds great! And how does the camera in iPhone 8 compare to the camera in iPhone 5s?
+17-3_8	That's great. But is the iPhone 8 Plus better for me in terms of camera and processor than the iPhone 8 ?
+17-3_9	Hmm, I think I might go with the iPhone 8 Plus model. Would iPhone 8 Plus be suitable for me?
+17-3_10	Thanks for that information. The difference doesn't seem too much though. By the way, where are iPhones made?
+17-3_11	What did Apple do for sustainability?
+17-3_12	Can you provide more details about the Impact Accelerator and how it supports minority-owned businesses?
+17-3_13	Do other phone companies also take steps to ensure a sustainable future?
+17-3_14	That's good to know. I was wondering if it is safe to buy a refurbished iPhone in the first place.
+17-3_15	Can you suggest a place where I can buy a refurbished iPhone?
+17-3_16	Sorry, that was not what I was looking for. I mean which of the US or UK is better for buying a refurbished iPhone??
+17-3_17	Thanks! You mentioned some online stores earlier. What is the advantage of buying a refurbished iPhone from the official Apple store?
+17-3_18	Great! Thank you for your help.
+18-1_1	What are some different workout routines I can try?
+18-1_2	Can you tell me more about HIIT?
+18-1_3	No, I mean HIIT
+18-1_4	And how does HIIT help?
+18-1_5	Can you compare HIIT to strength training?
+18-1_6	So, HIIT and strength training can be combined? How can HIIT and strength training be combined?
+18-1_7	Thanks! What are some specific strength training exercises?
+18-1_8	How are squats different from deadlifts?
+18-1_9	And which muscles do squats and deadlifts target?
+18-1_10	Thanks for that information. Now, what should I eat before and after my workouts?
+18-1_11	But I don't like bananas. What can I eat instead of bananas before the workout?
+18-1_12	What about supplements? Do I need to take supplements before the workout?
+18-1_13	How much protein do I need to build muscle?
+18-1_14	What's the best way to track the progress of my workouts?
+18-1_15	What are some common mistakes people make when starting a fitness routine?
+18-1_16	Thanks for the advice. You have been very helpful.
+18-2_1	Can you recommend some workout routines for me?
+18-2_2	Can you tell me more about the circuit training workout?
+18-2_3	Can you recommend a circuit training workout that would help me improve my overall body strength?
+18-2_4	What is the difference between deadlifts and dumbbell squats?
+18-2_5	Should I repeat the circuit training workout every day?
+18-2_6	No, I mean "Should I do the circuit training workout every day"?
+18-2_7	What are the pros and cons of circuit training? Is circuit training suitable for me?
+18-2_8	That makes sense! So how can I maximize the effectiveness of my circuit training workout?
+18-2_9	Thanks for the workout recommendation! What should I eat before and after the workout? And are there any helpful supplements?
+18-2_10	Yes, thank you! Is there any fitness equipment you would recommend for home use for my circuit training workout?
+18-2_11	Thanks! What can I do to incorporate exercise into my busy schedule?
+18-2_12	That's a great idea! Do you have any suggestions about how I can improve my sports performance?
+18-2_13	Thanks for that suggestion. I think I am all set for now.
+19-1_1	Hey there, I have an interview coming up at Google. I have never interviewed before. This is my first interview and I could really use some advice.
+19-1_2	Thanks! I am interviewing for the position of software engineer.
+19-1_3	Thanks for those amazing tips! I will try to incorporate them. Now, can you give me an overview of what the interview process for a software engineering position at Google might look like?
+19-1_4	Hmm, the process sounds quite tedious. I am curious about the behavioral round. Can you tell me more about the behavioral round of the interview for a software engineering position at Google?
+19-1_5	Yes, this is very helpful, thank you! How can I do well in the behavioral round of the interview for a software engineering position at Google?
+19-1_6	Can you tell me more about the STAR method? How should I use the STAR method during the behavioral round of the interview for a software engineering position at Google?
+19-1_7	Okay, that makes sense. I've worked on a lot of team projects and led a few too. But what if they ask me about any weaknesses or areas I need to improve on during the interview for a software engineering position at Google?
+19-1_8	Thanks! Now, I'm wondering about what to wear for the interview. I know Google has a casual dress code, but I want to make a good first impression.
+19-1_9	That sounds reasonable. I'll stick to business casual then. Now, how should I handle a situation if I don't know the answer to a question?
+19-1_10	I think that's a sensible approach. It shows honesty. Now, what should I do if I give an incorrect answer during the technical round of the interview for a software engineering position at Google?
+19-1_11	That's really helpful. How do I follow up after the interview for a software engineering position at Google?
+19-1_12	That's excellent advice. I'll definitely send a thank-you note after the interview. What should I do if I don't hear back from the recruiter after a week of the interview for a software engineering position at Google?
+19-1_13	Can I crack the interview for a software engineering position at Google in just 1 month of preparation?
+19-1_14	I had a data structures course once back in my undergrad. We learned the basics of C programming. So I know some basic coding and data structures.
+19-1_15	That's excellent advice. Can you compare Leetcode and GeeksForGeeks? Which one would be more suitable for me?
+19-1_16	Thanks! Now, would it be a bad idea to reschedule an interview for a software engineering position at Google?
+19-1_17	Yes, I do feel unprepared and hence thinking about rescheduling. What do you think?
+19-1_18	Thank you for all the tips and suggestions for the interview for a software engineering position at Google.
+20-1_1	Can you help me find a way to live with my stomach bloating condition?
+20-1_2	Yes. I was diagnosed as having Histamine Intolerance, which causes my stomach to bloat. Can you tell me what I can do to relieve such bloating?
+20-1_3	Are there any specific dietary guidelines or resources available for following a low histamine diet?
+20-1_4	How long does it typically take to see improvements in symptoms after starting a low histamine diet?
+20-1_5	Can you suggest a few foods that are high in histamine and I should avoid eating them?
+20-1_6	Wow, is there anything I can eat and still avoid bloating?
+20-1_7	I was a little overwhelmed with the list of foods that I'm not allowed to eat and I missed the soy on the list. Why can't I eat soy?
+20-1_8	This is really hard. Can I take antihistamine pills before a meal, with soy as the main ingredient?
+20-1_9	Can you suggest some other vegetarian sources of protein than soy?
+20-1_10	That's very helpful and I'm familiar with many of the mentioned foods on your list. But I have never tried HEMP or Spelt before. How can I eat them?
+20-1_11	I tend to ride my bike to school, but I'm not sure what kind of physical activity is best for me. Can I keep my current routine of physical activity or not?
+20-1_12	Can you recommend any supplements or medications that may help with histamine intolerance?
+20-1_13	Thanks for your help. I will consult a doctor about my histamine intolerance.
+20-2_1	What is histamine intolerance exactly?
+20-2_2	Okay, understood. But how can histamine intolerance affect my lifestyle?
+20-2_3	What types of alcohol should I avoid with histamine intolerance?
+20-2_4	Great advice. But, I also have diabetes. Is there any link between histamine intolerance and diabetes?
+20-2_5	It's a bit overwhelming. How do I keep track of all these dietary restrictions?
+20-2_6	That's helpful. Do you think reducing stress can help with my condition?
+20-2_7	Hmm. How can I reduce my stress?
+20-2_8	Hmm, the mindfulness meditation sounds interesting. Tell me more about mindfulness meditation.
+20-2_9	How does mindfulness meditation compare to yoga?
+20-2_10	I see. And what about histamine intolerance treatments or medications?
+20-2_11	Are there any potential side effects or interactions to be aware of when taking antihistamines for histamine intolerance?
+20-2_12	And are there any natural remedies or lifestyle changes that can help reduce histamine buildup in the body?
+20-2_13	Tell me more about the Mediterranean Diet and how it can be effective in reducing histamine levels.
+20-2_14	That's good to know. And do histamine levels in foods change with cooking or processing methods?
+20-2_15	Thanks for the explanation. Are there any specific tests to diagnose histamine intolerance?
+20-2_16	Thanks for all the information. I will consult with my healthcare provider for further guidance.
+21-1_1	Yesterday I showed the movie Contagion in my class and we had a very long discussion. The students were mesmerized by a movie that preceded the recent pandemic by nearly a decade. It was quite an emotional experience for all of us. Later I noticed a chyron on the TV screen at home that the World Health Organization chief said that the world must be ready to respond to the next pandemic. What was he talking about?
+21-1_2	How will countries strengthen their response, after the emergency phase, to COVID-19 and other unknown threats?
+21-1_3	As if the world is an equal playing field, what about the poor countries whose health systems struggle and they don't have the means to build an equitable infrastructure?
+21-1_4	Sure I am interested, what can you tell me about it?
+21-1_5	I was really concerned that we face such danger. Aside from what seems to me as empty promises by high-ranking officials, what really can be done about the next pandemic and how can we really prepare for that?
+21-1_6	You really surprised me and caused me to repeat my reaction.
+21-1_7	Sorry pal, for a second I forgot that I'm communicating with a conversational interface. I was being facetious, which I can be on occasion.
+21-1_8	Well, what do you need world-renowned experts for? Anyone who hasn't had their heads in the sand, didn't allow crazy politics to wash their brains, and had a little bit of respect for science and research could have come up with similar conclusions. Heck, I could have written such a report in no time, without being involved in a special stimulation. What a sad state of affairs! More bad news?
+21-1_9	I need a drink to calm down.
+21-1_10	No no, I mean I need a drink to calm down. Is there anything that I and other individuals can do to mitigate such possible global failure?
