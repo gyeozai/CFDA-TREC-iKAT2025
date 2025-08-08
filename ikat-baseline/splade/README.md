@@ -1,7 +1,5 @@
 # Neural Conversational Search - SPLADE
 
----
-
 This section of the code relies on the [SPLADE GitHub repository](https://github.com/naver/splade) from the original SPLADE authors, Formal et al. We only truncated all unnecessary functions in the context of this tutorial. This `README.md` file is specific to the SPLADE repository and outlines the organization of the various files contained within.
 
 ### Repository Overview
@@ -17,7 +15,3 @@ We removed all code for training SPLADE in this repo.
 
 - **`retrieve.py`**: Script to perform retrieval.
 - **`evaluate.py`**: Script to evaluate the model.
-
-
-- **`retrieve_interactive.py`**: Script to perform retrieval interactively.
-

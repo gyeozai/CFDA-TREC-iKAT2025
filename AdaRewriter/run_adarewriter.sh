@@ -12,7 +12,7 @@ output_path="/tmp2/intern/guanwei/DATA/candidates/qrecc_train_llama_temp07_cand0
 N_candidates=5
 
 python obtain_ranking_bm25.py \
---task="ikat" \
+--task="qrecc" \
 --top_k=500 \
 --qrel_path=$qrel_path \
 --output_path=$output_path \
