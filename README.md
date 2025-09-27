@@ -46,6 +46,22 @@ This repository contains the components and pipeline developed for the TREC iKAT
 
 2. Navigate to the corresponding subdirectory and follow the instructions in its `README.md` to execute specific tasks.
 
+## Citation
+
+If you use this work in your research, please cite our paper as follows:
+
+```bibtex
+@misc{chang2025cfdacliptrec,
+      title={CFDA & CLIP at TREC iKAT 2025: Enhancing Personalized Conversational Search via Query Reformulation and Rank Fusion}, 
+      author={Yu-Cheng Chang and Guan-Wei Yeo and Quah Eugene and Fan-Jie Shih and Yuan-Ching Kuo and Tsung-En Yu and Hung-Chun Hsu and Ming-Feng Tsai and Chuan-Ju Wang},
+      year={2025},
+      eprint={2509.15588},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2509.15588}, 
+}
+```
+
 ## Acknowledgments
 
 We thank the TREC iKAT organizers for providing the datasets and guidelines. Special thanks to the CFDA Lab at Academia Sinica for their support and mentorship during the Summer Intern program.
